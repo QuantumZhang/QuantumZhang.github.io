@@ -51,7 +51,7 @@ title:  Programming-Collective-Intelligence_Reading
 -- 5. **ＰageRank的计算方法**
 --- 迭代方法，获得收敛结果；
 --- 数学上，等效为平稳马尔可夫过程 (stationary Markov process)
----**tip** 迭代方法，数学上可以表示成算子的指数运算，即<sub>n</sub>=H<sup>n</sup>P<sub>0</sub>
+---**tip** 迭代方法，数学上可以表示成算子的指数运算，即P<sub>n</sub>=H<sup>n</sup>P<sub>0</sub>
 
 
 -- 6. **Learning from Clicks**
